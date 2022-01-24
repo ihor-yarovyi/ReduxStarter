@@ -1,0 +1,6 @@
+framework module PredicateKit {
+  umbrella header "PredicateKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

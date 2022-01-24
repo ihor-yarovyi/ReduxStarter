@@ -1,0 +1,6 @@
+framework module DatabaseLayer {
+  umbrella header "DatabaseLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

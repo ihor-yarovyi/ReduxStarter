@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  ReduxApp
+
+  Created by Ihor Yarovyi on 7/24/21.
+  
+*/
+
+// MARK: - Validation
+"validation.required" = "%@ is required";
+"validation.mustBe" = "%@ must be from %d to %d symbols";
+"validation.spaceOnly" = "%@ can't contain spaces only";
+"validation.notValid" = "%@ is invalid";
+"validation.noSpaces" = "%@ cannot contain spaces";
+"validation.shouldContain" = "%@ should contain at least one letter and one digit and one capital letter";
+"validation.shouldNotContain" = "%@ should not contain @ and spases";
+"validation.notMatch" = "%@ don't match";
+"validation.hasNotValidFormat" = "%@ has not valid format";
+
+// MARK: - Alert
+"alert.titles.error" = "Error";
+"alert.actions.ok" = "OK";
+
+// MARK: - Image Cropping View
+"image_cropping_view.actions.cancel" = "Cancel";
+"image_cropping_view.actions.crop" = "Crop";

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Kind</key>
+    <string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+    <key>Options</key>
+    <array>
+        <dict>
+            <key>Identifier</key>
+            <string>actionGroup</string>
+            <key>Required</key>
+            <true/>
+            <key>Name</key>
+            <string>Action Group:</string>
+            <key>Description</key>
+            <string>The name of the Action Group</string>
+            <key>Type</key>
+            <string>text</string>
+            <key>NotPersisted</key>
+            <true/>
+        </dict>
+        <dict>
+            <key>Identifier</key>
+            <string>actionName</string>
+            <key>Required</key>
+            <true/>
+            <key>Name</key>
+            <string>Action Name:</string>
+            <key>Description</key>
+            <string>The name of the action</string>
+            <key>Type</key>
+            <string>text</string>
+            <key>NotPersisted</key>
+            <true/>
+        </dict>
+    </array>
+</dict>
+</plist>

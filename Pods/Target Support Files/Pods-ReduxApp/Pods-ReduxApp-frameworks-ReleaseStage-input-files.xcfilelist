@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ReduxApp/Pods-ReduxApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NetworkLayer/NetworkLayer.framework
+${BUILT_PRODUCTS_DIR}/ReduxStore/ReduxStore.framework
+${BUILT_PRODUCTS_DIR}/PredicateKit/PredicateKit.framework
+${BUILT_PRODUCTS_DIR}/DatabaseLayer/DatabaseLayer.framework

@@ -1,0 +1,25 @@
+xcassets:
+  - inputs:
+    - Foundation/Resources/Images
+    outputs:
+      - templateName: swift5
+        output: Foundation/Resources/Images/Images.generated.swift
+        params:
+          publicAccess: true
+  - inputs:
+    - Foundation/Resources/Colors/Colors.xcassets
+    outputs:
+      - templateName: swift5
+        output: Foundation/Resources/Colors/Colors.generated.swift
+        params:
+          publicAccess: true
+          enumName: Colors
+
+strings:
+  inputs: Foundation/Resources/Strings
+  outputs:
+    - templateName: structured-swift5
+      output: Foundation/Resources/Strings/Strings.generated.swift
+      params:
+        enumName: Strings
+        publicAccess: true

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DebugDev</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example.dev/app/</string>
+	</dict>
+	<key>DebugStage</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example.stage/app/</string>
+	</dict>
+	<key>DebugProd</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example/app/</string>
+	</dict>
+	<key>ReleaseDev</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example.dev/app/</string>
+	</dict>
+	<key>ReleaseStage</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example.stage/app/</string>
+	</dict>
+	<key>ReleaseProd</key>
+	<dict>
+		<key>baseURLString</key>
+		<string>https://example/app/</string>
+	</dict>
+</dict>
+</plist>
